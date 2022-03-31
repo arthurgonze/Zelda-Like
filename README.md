@@ -1,5 +1,5 @@
 Zelda Like
-This is a top-dow 2D pixel art adventure game done in Unity. Some of the systems implemented for this game were:
+This is a top-down 2D pixel art adventure game done in Unity. Some of the systems implemented for this game were:
 - Saving
 - Menu Navigation
 - Cinematics 
@@ -7,13 +7,13 @@ This is a top-dow 2D pixel art adventure game done in Unity. Some of the systems
 - Movement
 - Enemies AI
 - Enemies Vision
-- Droppables
-- Interactables
+- Droppable
+- Interactives
 - Quests
 - Dialogue
 - Rooms Management
 
-All assests of this prototype were provided by Phracassado of the Deep, a dear friend of mine.
+All assets of this prototype were provided by Phracassado of the Deep, a dear friend of mine.
 
 ![img](Images/image_00.png)
 ![img](Images/image_01.png)
