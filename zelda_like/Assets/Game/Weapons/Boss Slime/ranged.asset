@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ade1397445146458a3aa8d2f05d29e, type: 3}
+  m_Name: ranged
+  m_EditorClassIdentifier: 
+  _attackBehavior: 0
+  _weaponRange: 50
+  _weaponDamage: 10
+  _weaponManaCost: 0
+  _cooldownTime: 0.1
+  _equippedWeaponPrefab: {fileID: 8025187577995188548, guid: 72b3608340030e54b90ef9252713cf1d,
+    type: 3}
+  _breakObjectsOfType: 0
+  _projectile: {fileID: 1950822565922741739, guid: eab2a5d171844b14dbe59ca496575a9d,
+    type: 3}
+  _bomb: {fileID: 0}
+  _shield: {fileID: 0}
+  _animatorOverride: {fileID: 0}

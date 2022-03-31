@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ade1397445146458a3aa8d2f05d29e, type: 3}
+  m_Name: Escudo
+  m_EditorClassIdentifier: 
+  _attackBehavior: 3
+  _weaponRange: 2
+  _weaponDamage: 0
+  _weaponManaCost: 10
+  _cooldownTime: 3
+  _equippedWeaponPrefab: {fileID: 1080537102753209289, guid: 7cefb9369c2b89a4788e5295625a89a9,
+    type: 3}
+  _breakObjectsOfType: 1
+  _projectile: {fileID: 0}
+  _bomb: {fileID: 0}
+  _shield: {fileID: 6092091958110750868, guid: aa0cbbda3cb7bb946adbca4a44aae4a8, type: 3}
+  _animatorOverride: {fileID: 0}

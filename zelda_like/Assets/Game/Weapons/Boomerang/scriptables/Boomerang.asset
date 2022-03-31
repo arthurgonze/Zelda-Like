@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ade1397445146458a3aa8d2f05d29e, type: 3}
+  m_Name: Boomerang
+  m_EditorClassIdentifier: 
+  _attackBehavior: 2
+  _weaponRange: 5
+  _weaponDamage: 15
+  _weaponManaCost: 5
+  _cooldownTime: 3
+  _equippedWeaponPrefab: {fileID: 1080537102753209289, guid: eb5c6146f6e503842a74dd1ac3ed20e6,
+    type: 3}
+  _breakObjectsOfType: 1
+  _projectile: {fileID: 0}
+  _bomb: {fileID: 0}
+  _shield: {fileID: 0}
+  _animatorOverride: {fileID: 0}
